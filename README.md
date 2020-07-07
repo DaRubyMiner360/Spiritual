@@ -13,7 +13,7 @@ Spiritual is a communication tool made for chating.<!--- It is primarily made fo
 ## Getting Started
 You can download the jar files).
 Then run the client jar file and put in the info that you might get, or the info from the Spiritual Server.
-If you are hosting your own Spiritual Server, figure out how to put the server jar file on a server
+If you are hosting your own Spiritual Server, open a command prompt (if you are not on Windows, use the alternative) in the folder with SpiritualServer.jar and run `java -jar SpiritualServer.jar [port]` and replace [port] with the port that you want to host it on.
 
 You can also clone the repository to a local destination using git:
 
